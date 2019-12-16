@@ -1,2 +1,2 @@
-# Y-nS-rlama
+# YıgınSıralama
 Yığın Sıralaması
